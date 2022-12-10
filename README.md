@@ -1,5 +1,5 @@
 ### qq all 👋
-I'm student at [Rolling Scopes](https://app.rs.school/), [ONESOFT](https://onesoft.kz/)
+I'm student at [Rolling Scopes School](https://app.rs.school/), [ONESOFT](https://onesoft.kz/)
 - 💻 My technologies: basic knowledge about C, linux, bash, js.
 - 🌱 I’m currently learning Web Developent.
 - 🎯 Long-term goal is to be great programmer.
